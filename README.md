@@ -5,7 +5,7 @@
 
 # :memo: Java primeiros passos: Lógica de Programação e Algoritmos
 
-### DESCRIÇÃO E OBJETIVO DO CURSO:
+### Descrição e objetivo do curso:
 
 Este curso equivale à disciplina de Lógica de Programação: disciplina inicial de programação em um curso de faculdade na área de Computação. Ao final deste curso você será capaz de compreender e aplicar os fundamentos de Lógica de Programação, quais sejam:
 - Introdução à programação
