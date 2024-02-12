@@ -22,7 +22,7 @@ Este curso equivale à disciplina de Lógica de Programação: disciplina inicia
 - Vetores
 - Matrizes
 
-### O que foi aprendido?
+### O que será aprendido?
 - Fundamentos básicos de programação: estrutura sequencial, estrutura condicional (if-else), estruturas repetitivas (while, for, do-while), vetores e matrizes.
 - Aplicar os conhecimentos adquiridos para solução de problemas básicos usando a linguagem Java.
 - Utilizar o Eclipse para editar, depurar e executar programas.
